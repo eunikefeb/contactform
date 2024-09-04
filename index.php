@@ -8,7 +8,7 @@
     <script>
         function showSuccessPopup() {
             alert('Data has been submitted successfully!');
-            window.location.href = 'index.php'; // Mengarahkan kembali ke index.php setelah alert
+            window.location.href = 'index.php';
         }
     </script>
 </head>
